@@ -11,5 +11,10 @@ body{
 .two{
       width: 20rem;
       height: 20rem;
-      background: bluevioletfir
+      background: blueviolet;
+}
+.three{
+      width: 20rem;
+      height: 20rem;
+      background: pink
 }
